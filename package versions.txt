@@ -1,0 +1,448 @@
+[3/28 5:21 PM] Ottolin, Fabian
+(cascade) C:\Users\python_student>conda list
+
+# packages in environment at C:\Users\python_student\anaconda3\envs\cascade:
+
+#
+
+# Name                    Version                   Build  Channel
+
+absl-py                   2.1.0                    pypi_0    pypi
+
+asttokens                 2.0.5              pyhd3eb1b0_0
+
+astunparse                1.6.3                    pypi_0    pypi
+
+backcall                  0.2.0              pyhd3eb1b0_0
+
+ca-certificates           2023.12.12           haa95532_0
+
+cachetools                5.3.3                    pypi_0    pypi
+
+certifi                   2024.2.2         py38haa95532_0
+
+charset-normalizer        3.3.2                    pypi_0    pypi
+
+colorama                  0.4.6            py38haa95532_0
+
+comm                      0.2.1            py38haa95532_0
+
+contourpy                 1.1.1                    pypi_0    pypi
+
+cycler                    0.12.1                   pypi_0    pypi
+
+debugpy                   1.6.7            py38hd77b12b_0
+
+decorator                 5.1.1              pyhd3eb1b0_0
+
+executing                 0.8.3              pyhd3eb1b0_0
+
+flatbuffers               23.5.26                  pypi_0    pypi
+
+fonttools                 4.49.0                   pypi_0    pypi
+
+gast                      0.4.0                    pypi_0    pypi
+
+google-auth               2.28.1                   pypi_0    pypi
+
+google-auth-oauthlib      0.4.6                    pypi_0    pypi
+
+google-pasta              0.2.0                    pypi_0    pypi
+
+grpcio                    1.62.0                   pypi_0    pypi
+
+h5py                      3.10.0                   pypi_0    pypi
+
+idna                      3.6                      pypi_0    pypi
+
+importlib-metadata        7.0.1            py38haa95532_0
+
+importlib-resources       6.1.2                    pypi_0    pypi
+
+importlib_metadata        7.0.1                hd3eb1b0_0
+
+ipykernel                 6.29.2             pyha63f2e9_0    conda-forge
+
+ipympl                    0.9.3                    pypi_0    pypi
+
+ipython                   8.12.2           py38haa95532_0
+
+ipython-genutils          0.2.0                    pypi_0    pypi
+
+ipywidgets                8.1.2                    pypi_0    pypi
+
+jedi                      0.18.1           py38haa95532_1
+
+jupyter_client            8.6.0            py38haa95532_0
+
+jupyter_core              5.5.0            py38haa95532_0
+
+jupyterlab-widgets        3.0.10                   pypi_0    pypi
+
+keras                     2.11.0                   pypi_0    pypi
+
+kiwisolver                1.4.5                    pypi_0    pypi
+
+libclang                  16.0.6                   pypi_0    pypi
+
+libffi                    3.4.4                hd77b12b_0
+
+libsodium                 1.0.18               h62dcd97_0
+
+markdown                  3.5.2                    pypi_0    pypi
+
+markupsafe                2.1.5                    pypi_0    pypi
+
+matplotlib                3.7.5                    pypi_0    pypi
+
+matplotlib-inline         0.1.6            py38haa95532_0
+
+nest-asyncio              1.6.0            py38haa95532_0
+
+numpy                     1.21.6                   pypi_0    pypi
+
+oauthlib                  3.2.2                    pypi_0    pypi
+
+openssl                   3.0.13               h2bbff1b_0
+
+opt-einsum                3.3.0                    pypi_0    pypi
+
+packaging                 23.1             py38haa95532_0
+
+pandas                    2.0.3                    pypi_0    pypi
+
+parso                     0.8.3              pyhd3eb1b0_0
+
+pickleshare               0.7.5           pyhd3eb1b0_1003
+
+pillow                    10.2.0                   pypi_0    pypi
+
+pip                       23.3.1           py38haa95532_0
+
+platformdirs              3.10.0           py38haa95532_0
+
+prompt-toolkit            3.0.43           py38haa95532_0
+
+protobuf                  3.19.6                   pypi_0    pypi
+
+psutil                    5.9.0            py38h2bbff1b_0
+
+pure_eval                 0.2.2              pyhd3eb1b0_0
+
+pyasn1                    0.5.1                    pypi_0    pypi
+
+pyasn1-modules            0.3.0                    pypi_0    pypi
+
+pygments                  2.15.1           py38haa95532_1
+
+pyparsing                 3.1.1                    pypi_0    pypi
+
+python                    3.8.18               h1aa4202_0
+
+python-dateutil           2.8.2              pyhd3eb1b0_0
+
+pytz                      2024.1                   pypi_0    pypi
+
+pywin32                   305              py38h2bbff1b_0
+
+pyzmq                     25.1.2           py38hd77b12b_0
+
+requests                  2.31.0                   pypi_0    pypi
+
+requests-oauthlib         1.3.1                    pypi_0    pypi
+
+rsa                       4.9                      pypi_0    pypi
+
+ruamel.yaml               0.17.21          py38h2bbff1b_0
+
+ruamel.yaml.clib          0.2.6            py38h2bbff1b_1
+
+scipy                     1.10.1                   pypi_0    pypi
+
+setuptools                68.2.2           py38haa95532_0
+
+six                       1.16.0             pyhd3eb1b0_1
+
+sqlite                    3.41.2               h2bbff1b_0
+
+stack_data                0.2.0              pyhd3eb1b0_0
+
+tensorboard               2.11.2                   pypi_0    pypi
+
+tensorboard-data-server   0.6.1                    pypi_0    pypi
+
+tensorboard-plugin-wit    1.8.1                    pypi_0    pypi
+
+tensorflow                2.11.0                   pypi_0    pypi
+
+tensorflow-estimator      2.11.0                   pypi_0    pypi
+
+tensorflow-intel          2.11.0                   pypi_0    pypi
+
+tensorflow-io-gcs-filesystem 0.31.0                   pypi_0    pypi
+
+termcolor                 2.4.0                    pypi_0    pypi
+
+tornado                   6.3.3            py38h2bbff1b_0
+
+traitlets                 5.7.1            py38haa95532_0
+
+typing_extensions         4.9.0            py38haa95532_1
+
+tzdata                    2024.1                   pypi_0    pypi
+
+urllib3                   2.2.1                    pypi_0    pypi
+
+vc                        14.2                 h21ff451_1
+
+vs2015_runtime            14.27.29016          h5e58377_2
+
+wcwidth                   0.2.5              pyhd3eb1b0_0
+
+werkzeug                  3.0.1                    pypi_0    pypi
+
+wheel                     0.41.2           py38haa95532_0
+
+widgetsnbextension        4.0.10                   pypi_0    pypi
+
+wrapt                     1.16.0                   pypi_0    pypi
+
+zeromq                    4.3.5                hd77b12b_0
+
+zipp                      3.17.0           py38haa95532_0
+
+
+[3/28 5:21 PM] Ottolin, Fabian
+(suite2p) C:\Users\python_student>conda list
+
+# packages in environment at C:\Users\python_student\anaconda3\envs\suite2p:
+
+#
+
+# Name                    Version                   Build  Channel
+
+asttokens                 2.0.5              pyhd3eb1b0_0
+
+attrs                     23.2.0                   pypi_0    pypi
+
+backcall                  0.2.0              pyhd3eb1b0_0
+
+baselineremoval           0.1.5                    pypi_0    pypi
+
+ca-certificates           2023.12.12           haa95532_0
+
+cellpose                  2.3.2                    pypi_0    pypi
+
+colorama                  0.4.6            py38haa95532_0
+
+comm                      0.1.2            py38haa95532_0
+
+contourpy                 1.1.1                    pypi_0    pypi
+
+cycler                    0.12.1                   pypi_0    pypi
+
+dabest                    2023.2.14                pypi_0    pypi
+
+debugpy                   1.6.7            py38hd77b12b_0
+
+decorator                 5.1.1              pyhd3eb1b0_0
+
+executing                 0.8.3              pyhd3eb1b0_0
+
+fastremap                 1.14.1                   pypi_0    pypi
+
+filelock                  3.13.1                   pypi_0    pypi
+
+fonttools                 4.48.1                   pypi_0    pypi
+
+fsspec                    2024.2.0                 pypi_0    pypi
+
+h5py                      3.10.0                   pypi_0    pypi
+
+hdmf                      3.12.2                   pypi_0    pypi
+
+imagecodecs               2023.3.16                pypi_0    pypi
+
+imageio                   2.34.0                   pypi_0    pypi
+
+importlib-metadata        7.0.1            py38haa95532_0
+
+importlib-resources       6.1.1                    pypi_0    pypi
+
+importlib_metadata        7.0.1                hd3eb1b0_0
+
+ipykernel                 6.28.0           py38haa95532_0
+
+ipython                   8.12.2           py38haa95532_0
+
+jedi                      0.18.1           py38haa95532_1
+
+jinja2                    3.1.3                    pypi_0    pypi
+
+joblib                    1.3.2                    pypi_0    pypi
+
+jsonschema                4.21.1                   pypi_0    pypi
+
+jsonschema-specifications 2023.12.1                pypi_0    pypi
+
+jupyter_client            8.6.0            py38haa95532_0
+
+jupyter_core              5.5.0            py38haa95532_0
+
+kiwisolver                1.4.5                    pypi_0    pypi
+
+libffi                    3.4.4                hd77b12b_0
+
+libsodium                 1.0.18               h62dcd97_0
+
+llvmlite                  0.41.1                   pypi_0    pypi
+
+lqrt                      0.3.3                    pypi_0    pypi
+
+markdown-it-py            3.0.0                    pypi_0    pypi
+
+markupsafe                2.1.5                    pypi_0    pypi
+
+matplotlib                3.7.4                    pypi_0    pypi
+
+matplotlib-inline         0.1.6            py38haa95532_0
+
+mdurl                     0.1.2                    pypi_0    pypi
+
+mpmath                    1.3.0                    pypi_0    pypi
+
+natsort                   8.4.0                    pypi_0    pypi
+
+nd2reader                 3.3.0                    pypi_0    pypi
+
+nest-asyncio              1.5.6            py38haa95532_0
+
+networkx                  3.1                      pypi_0    pypi
+
+numba                     0.58.1                   pypi_0    pypi
+
+numpy                     1.24.4                   pypi_0    pypi
+
+opencv-python-headless    4.9.0.80                 pypi_0    pypi
+
+openssl                   3.0.13               h2bbff1b_0
+
+packaging                 23.2                     pypi_0    pypi
+
+pandas                    1.5.3                    pypi_0    pypi
+
+parso                     0.8.3              pyhd3eb1b0_0
+
+pickleshare               0.7.5           pyhd3eb1b0_1003
+
+pillow                    10.2.0                   pypi_0    pypi
+
+pims                      0.6.1                    pypi_0    pypi
+
+pip                       23.3.1           py38haa95532_0
+
+pkgutil-resolve-name      1.3.10                   pypi_0    pypi
+
+platformdirs              3.10.0           py38haa95532_0
+
+prompt-toolkit            3.0.43           py38haa95532_0
+
+psutil                    5.9.0            py38h2bbff1b_0
+
+pure_eval                 0.2.2              pyhd3eb1b0_0
+
+pygments                  2.15.1           py38haa95532_1
+
+pynapple                  0.5.1                    pypi_0    pypi
+
+pynwb                     2.5.0                    pypi_0    pypi
+
+pyparsing                 3.1.1                    pypi_0    pypi
+
+pyqt6                     6.6.1                    pypi_0    pypi
+
+pyqt6-qt6                 6.6.1                    pypi_0    pypi
+
+pyqt6-sip                 13.6.0                   pypi_0    pypi
+
+pyqtgraph                 0.13.3                   pypi_0    pypi
+
+python                    3.8.18               h1aa4202_0
+
+python-dateutil           2.8.2              pyhd3eb1b0_0
+
+pytz                      2024.1                   pypi_0    pypi
+
+pywin32                   305              py38h2bbff1b_0
+
+pyzmq                     25.1.2           py38hd77b12b_0
+
+qtpy                      2.4.1                    pypi_0    pypi
+
+rastermap                 0.9.4                    pypi_0    pypi
+
+referencing               0.33.0                   pypi_0    pypi
+
+rich                      13.7.0                   pypi_0    pypi
+
+roifile                   2023.5.12                pypi_0    pypi
+
+rpds-py                   0.18.0                   pypi_0    pypi
+
+ruamel-yaml               0.18.6                   pypi_0    pypi
+
+ruamel-yaml-clib          0.2.8                    pypi_0    pypi
+
+scanimage-tiff-reader     1.4.1.4                  pypi_0    pypi
+
+scikit-learn              1.3.2                    pypi_0    pypi
+
+scipy                     1.10.1                   pypi_0    pypi
+
+seaborn                   0.13.2                   pypi_0    pypi
+
+setuptools                68.2.2           py38haa95532_0
+
+six                       1.16.0             pyhd3eb1b0_1
+
+slicerator                1.1.0                    pypi_0    pypi
+
+sqlite                    3.41.2               h2bbff1b_0
+
+stack_data                0.2.0              pyhd3eb1b0_0
+
+suite2p                   0.14.3                   pypi_0    pypi
+
+sympy                     1.12                     pypi_0    pypi
+
+tabulate                  0.9.0                    pypi_0    pypi
+
+threadpoolctl             3.2.0                    pypi_0    pypi
+
+tifffile                  2023.7.10                pypi_0    pypi
+
+torch                     2.2.0                    pypi_0    pypi
+
+tornado                   6.3.3            py38h2bbff1b_0
+
+tqdm                      4.66.2                   pypi_0    pypi
+
+traitlets                 5.7.1            py38haa95532_0
+
+typing_extensions         4.9.0            py38haa95532_1
+
+tzdata                    2024.1                   pypi_0    pypi
+
+vc                        14.2                 h21ff451_1
+
+vs2015_runtime            14.27.29016          h5e58377_2
+
+wcwidth                   0.2.5              pyhd3eb1b0_0
+
+wheel                     0.41.2           py38haa95532_0
+
+xmltodict                 0.13.0                   pypi_0    pypi
+
+zeromq                    4.3.5                hd77b12b_0
+
+zipp                      3.17.0           py38haa95532_0
